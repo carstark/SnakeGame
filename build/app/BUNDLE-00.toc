@@ -1,0 +1,3 @@
+([('app',
+   '/Users/carstenstarke/PYTHON/own_projects/venv/SnakeGame/dist/app',
+   'EXECUTABLE')],)
